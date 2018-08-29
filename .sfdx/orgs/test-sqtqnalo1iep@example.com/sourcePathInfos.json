@@ -1,0 +1,257 @@
+[
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572311741,
+            "changeTime": 1535572311741,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572311741,
+            "changeTime": 1535572311741,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769099,
+            "changeTime": 1535572769099,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572311742,
+            "changeTime": 1535572311742,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001",
+        {
+            "state": "n",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572441641,
+            "changeTime": 1535572441641,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account\\fields\\testcheck__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account\\fields\\testcheck__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 330,
+            "modifiedTime": 1535572769060,
+            "changeTime": 1535572769060,
+            "contentHash": "299cb421b1b18ae7723b7bf5ac91608709658d3d"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9583,
+            "modifiedTime": 1535572769070,
+            "changeTime": 1535572769070,
+            "contentHash": "c58eba23d3bc6427fb1c59901968d3cf7caf35c5"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9631,
+            "modifiedTime": 1535572769080,
+            "changeTime": 1535572769080,
+            "contentHash": "88a69c47b4fcf8f505eda9952699239d55514bca"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9583,
+            "modifiedTime": 1535572769087,
+            "changeTime": 1535572769087,
+            "contentHash": "1ef44ba5eca945857515b032059849512b09014d"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9631,
+            "modifiedTime": 1535572769094,
+            "changeTime": 1535572769094,
+            "contentHash": "5676415f1288b1405ebecc1a04cea9a001884f0c"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17879,
+            "modifiedTime": 1535572769108,
+            "changeTime": 1535572769108,
+            "contentHash": "5cf24d2a311e427b55c8a3acc8426bbb191dbe00"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4478,
+            "modifiedTime": 1535572769118,
+            "changeTime": 1535572769118,
+            "contentHash": "15d0dd4fdca4b223c15b2b2d412a5b17530f115b"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4814,
+            "modifiedTime": 1535572769126,
+            "changeTime": 1535572769126,
+            "contentHash": "ff99db479a25a62132bd14d0e5a9c5c0761551a0"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4474,
+            "modifiedTime": 1535572769132,
+            "changeTime": 1535572769132,
+            "contentHash": "0f306e71875cbe80dc302f9f41f7e656d1590f27"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769058,
+            "changeTime": 1535572769058,
+            "contentHash": "9adcceb2647b437c8979811c7564e272fc1bb2f7"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769056,
+            "changeTime": 1535572769056,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769055,
+            "changeTime": 1535572769055,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769091,
+            "changeTime": 1535572769091,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SAPDemo\\SFDC_001\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1535572769130,
+            "changeTime": 1535572769130,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

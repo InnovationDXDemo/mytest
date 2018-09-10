@@ -3,7 +3,7 @@
     <fullName>testcheck__c</fullName>
     <defaultValue>false</defaultValue>
     <externalId>false</externalId>
-    <label>testcheck</label>
+    <label>testcheck1</label>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Checkbox</type>
 </CustomField>
